@@ -1,1 +1,2 @@
-# BookRecommeder
+# Book Recommender System
+The goal of this project is to build a Recommendation System for book buyers through Collaborative Filtering. We chose the book buyers data from the Book-Crossing Dataset collected in 4 weeks spanning August to September of 2004 to build our recommendation system. The dataset consists of data from 278,858 individual users providing both implicit and explicit ratings on 271,379 books . Once the model is built we will validate its quality and performance and explore methods of enhancing the model to fit a commercial deployment scenario.
